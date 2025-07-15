@@ -46,3 +46,5 @@ It will create a file called all_followings_raw.json, which will contain the jso
 python3 extract_usernames.py 
 
 It will create followings.txt file with all your followings with @
+
+(same can be done for "Followers list")
