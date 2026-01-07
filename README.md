@@ -1,11 +1,3 @@
-Absolutely. Below is a **clean, well-structured GitHub README** for your **TwitterFollowers** project.
-It’s rewritten to be **clear, reproducible, and professional**, while keeping your original workflow intact.
-
-You can paste this **directly into `README.md`**.
-
----
-
-````md
 # TwitterFollowers
 
 A Python-based utility to **extract all @usernames of your Twitter (X) followers or followings** using authenticated GraphQL requests and browser session cookies.
