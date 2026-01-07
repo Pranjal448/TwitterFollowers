@@ -210,15 +210,3 @@ The author is not responsible for account suspension, data misuse, or violations
 
 **Pranjal**
 
-```
-
----
-
-### If you want next:
-- Combine both projects under a **Security & Automation portfolio**
-- Add `.gitignore` (cookies & tokens protection)
-- Improve robustness with pagination support
-- Make it resume / recruiter optimized
-
-Just say the word.
-```
